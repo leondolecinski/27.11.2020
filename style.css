@@ -1,0 +1,17 @@
+.banner{
+    width: 1500px;
+    height:400px ;
+}
+body{
+    background-color: black;
+}
+.karta{
+    width: 100px;
+    height: 250px;
+}
+.kartazd{
+    height: 160px;
+}
+.card-body{
+    background-color: rgb(253, 246, 234) ;
+}
